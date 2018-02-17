@@ -1,0 +1,53 @@
+p{
+  color: red;
+}
+.events{
+  color: gray;
+}
+p{
+  text-align:left;
+}
+.team-name{
+  padding-right:25px;
+  display:inline-block;
+  width:50px;
+}
+.red{
+  color:red;
+
+}
+.gray{
+  color:gray;
+}
+.team-scores{
+  float:left;
+  border-right: 1px solid black;
+}
+
+.link{
+  padding-right:25px;
+}
+.espn{
+  float:left;
+}
+.commericial{
+  float:left;
+  border-right: 1px solid black;
+
+}
+.sports-links{
+  text-align:center;
+}
+.title{
+  text-align:left;
+}
+h1{
+  text-align:center;
+}
+.begin{
+  text-align:center;
+
+}
+.paragraph{
+  color:black;
+}
