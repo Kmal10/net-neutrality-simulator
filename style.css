@@ -28,23 +28,27 @@ p{
   padding-right:25px;
 }
 .espn{
-  float:left;
+  text-align:left;
+  font-family:impact;
+  background-color:#000d1a;
+  width: 100%;
+  color:red;
+  padding:"20";
+
 }
 .commericial{
   float:left;
   border-right: 1px solid black;
 
 }
-.sports-links{
-  text-align:center;
-}
+
 .title{
   text-align:left;
 }
 h1{
   text-align:center;
 }
-.begin{
+.beginSimulation{
   text-align:center;
 
 }
