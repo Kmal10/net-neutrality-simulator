@@ -14,6 +14,7 @@ p{
 }
 .red{
   color:red;
+  padding:6px;
 
 }
 .gray{
@@ -27,20 +28,27 @@ p{
 .link{
   padding-right:25px;
 }
+.barLinks{
+  padding:30px;
+}
+a:hover{
+  color:lawnGreen;
+}
 .espn{
   text-align:left;
   font-family:impact;
   background-color:#000d1a;
   width: 100%;
   color:red;
-  padding:"20";
+  padding-right:20px;
 
 }
 .commericial{
   float:left;
   border-right: 1px solid black;
-
+  padding:10px;
 }
+
 
 .title{
   text-align:left;
@@ -49,9 +57,22 @@ h1{
   text-align:center;
 }
 .beginSimulation{
-  text-align:center;
+  float:center;
+  color:lightBlue;
+  font-family:monaco;
+
 
 }
 .paragraph{
-  color:black;
+  color:gray;
+  text-align:center;
+}
+.funnySportsNews{
+  color:lightSeaGreen;
+  font-family:monaco;
+}
+.petition{
+  color:white;
+  background-color:black;
+
 }
